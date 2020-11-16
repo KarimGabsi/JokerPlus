@@ -1,0 +1,160 @@
+--------------------------
+Random Player
+2-0-9-3-0-4 Sym:9
+4-9-3-1-4-5 Sym:7
+9-4-7-2-1-0 Sym:5
+4-7-4-3-6-0 Sym:7
+5-2-2-8-1-1 Sym:1
+8-3-6-9-7-6 Sym:0
+1-0-7-5-5-3 Sym:8
+6-2-7-4-5-8 Sym:7
+8-8-2-8-3-1 Sym:1
+6-4-3-4-6-5 Sym:5
+8-1-5-8-2-8 Sym:11
+4-1-9-2-3-2 Sym:1
+--------------------------
+--------------------------
+First Number Player
+0-3-9-3-5-6 Sym:4
+1-5-1-0-0-0 Sym:0
+2-6-3-5-1-7 Sym:2
+3-4-4-8-2-0 Sym:4
+4-7-2-0-9-6 Sym:9
+5-4-9-7-8-9 Sym:6
+6-6-3-7-9-6 Sym:7
+7-3-1-7-1-3 Sym:8
+8-5-2-0-5-1 Sym:3
+9-0-8-4-5-8 Sym:10
+3-4-1-8-5-6 Sym:6
+3-0-3-2-7-6 Sym:4
+--------------------------
+--------------------------
+Symbol Player
+6-4-1-3-8-0 Sym:0
+9-4-3-2-5-2 Sym:1
+1-3-8-8-1-6 Sym:2
+4-9-8-1-1-3 Sym:3
+6-6-8-7-3-6 Sym:4
+8-0-9-1-3-8 Sym:5
+9-2-2-6-1-5 Sym:6
+5-4-1-9-7-6 Sym:7
+1-4-2-9-3-0 Sym:8
+7-1-9-9-9-0 Sym:9
+4-4-8-4-2-2 Sym:10
+3-3-0-0-7-8 Sym:11
+--------------------------
+--------------------------
+SNAS Player
+1-1-1-1-1-1 Sym:0
+1-1-1-1-1-1 Sym:1
+1-1-1-1-1-1 Sym:2
+1-1-1-1-1-1 Sym:3
+1-1-1-1-1-1 Sym:4
+1-1-1-1-1-1 Sym:5
+1-1-1-1-1-1 Sym:6
+1-1-1-1-1-1 Sym:7
+1-1-1-1-1-1 Sym:8
+1-1-1-1-1-1 Sym:9
+1-1-1-1-1-1 Sym:10
+1-1-1-1-1-1 Sym:11
+--------------------------
+--------------------------
+One Draw Player
+9-5-9-4-9-0 Sym:2
+--------------------------
+CPU: 00 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:53
+CPU: 01 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:49
+CPU: 02 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:47
+CPU: 03 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:47
+CPU: 04 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:48
+CPU: 05 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:51
+CPU: 06 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:50
+CPU: 07 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:48
+CPU: 08 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:48
+CPU: 09 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:49
+CPU: 10 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:48
+CPU: 11 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:47
+CPU: 12 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:47
+CPU: 13 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:46
+CPU: 14 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:48
+CPU: 15 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:51
+CPU: 16 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:50
+CPU: 17 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:49
+CPU: 18 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:49
+CPU: 19 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:49
+CPU: 20 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:16:02
+CPU: 21 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:58
+CPU: 22 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:55
+CPU: 23 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:52
+CPU: 24 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:52
+CPU: 25 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:55
+CPU: 26 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:54
+CPU: 27 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:53
+CPU: 28 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:53
+CPU: 29 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:54
+CPU: 30 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:56
+CPU: 31 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:52
+CPU: 32 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:52
+CPU: 33 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:51
+CPU: 34 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:54
+CPU: 35 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:57
+CPU: 36 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:54
+CPU: 37 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:54
+CPU: 38 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:56
+CPU: 39 	 STATE: FINISHED 	 50000 | 50000 	 Elapsed Time: 00:15:56
+----------------------------------------------------------------------------------------------------------------------------------
+Player: Random Player 	 Plays: 2000000 	  DrawCount: 24000000 	  DrawHand: 12
+
+Sequential -> 		 n1: 2398753 	 n2: 2384390 	 n3: 2411075 
+ 			 n4: 2383207 	 n5: 2406414 	 n6: 2385454 
+Sequential WINS -> 	 All Numbers: 13 	 Symbol: 1975672 	  Jackpot: 0 
+
+Simultanious -> 	 n1: 2402144 	 n2: 2398852 	 n3: 2395261 
+ 			 n4: 2400885 	 n5: 2397595 	 n6: 2397279 
+Simultanious WINS -> 	 All Numbers: 46 	 Symbol: 1999734 	 Jackpot: 0 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Player: First Number Player 	 Plays: 2000000 	  DrawCount: 24000000 	  DrawHand: 12
+
+Sequential -> 		 n1: 2406954 	 n2: 2405218 	 n3: 2403046 
+ 			 n4: 2383320 	 n5: 2386255 	 n6: 2441460 
+Sequential WINS -> 	 All Numbers: 23 	 Symbol: 2024227 	  Jackpot: 1 
+
+Simultanious -> 	 n1: 2398064 	 n2: 2399708 	 n3: 2399510 
+ 			 n4: 2402095 	 n5: 2399046 	 n6: 2405715 
+Simultanious WINS -> 	 All Numbers: 32 	 Symbol: 1998508 	 Jackpot: 0 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Player: Symbol Player 	 Plays: 2000000 	  DrawCount: 24000000 	  DrawHand: 12
+
+Sequential -> 		 n1: 2425446 	 n2: 2400109 	 n3: 2384279 
+ 			 n4: 2415230 	 n5: 2411850 	 n6: 2388724 
+Sequential WINS -> 	 All Numbers: 21 	 Symbol: 2000000 	  Jackpot: 0 
+
+Simultanious -> 	 n1: 2401305 	 n2: 2399566 	 n3: 2403575 
+ 			 n4: 2399589 	 n5: 2398674 	 n6: 2398498 
+Simultanious WINS -> 	 All Numbers: 12 	 Symbol: 1999998 	 Jackpot: 2 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Player: SNAS Player 	 Plays: 2000000 	  DrawCount: 24000000 	  DrawHand: 12
+
+Sequential -> 		 n1: 2422248 	 n2: 2418132 	 n3: 2412180 
+ 			 n4: 2419884 	 n5: 2425920 	 n6: 2428104 
+Sequential WINS -> 	 All Numbers: 0 	 Symbol: 2000000 	  Jackpot: 0 
+
+Simultanious -> 	 n1: 2404344 	 n2: 2407176 	 n3: 2403552 
+ 			 n4: 2384412 	 n5: 2406828 	 n6: 2403672 
+Simultanious WINS -> 	 All Numbers: 0 	 Symbol: 2000000 	 Jackpot: 0 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Player: One Draw Player 	 Plays: 2000000 	  DrawCount: 2000000 	  DrawHand: 1
+
+Sequential -> 		 n1: 204979 	 n2: 195932 	 n3: 205319 
+ 			 n4: 198630 	 n5: 205103 	 n6: 196815 
+Sequential WINS -> 	 All Numbers: 0 	 Symbol: 177994 	  Jackpot: 0 
+
+Simultanious -> 	 n1: 200023 	 n2: 200373 	 n3: 199244 
+ 			 n4: 199440 	 n5: 200925 	 n6: 198529 
+Simultanious WINS -> 	 All Numbers: 4 	 Symbol: 167211 	 Jackpot: 0 
+----------------------------------------------------------------------------------------------------------------------------------
+Total Elapsed: 00:16:05
